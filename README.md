@@ -1,2 +1,1 @@
-# Testing-SnykCode
-For testing Snyk
+# inf1743-projet-integrateur-template
